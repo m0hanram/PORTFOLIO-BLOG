@@ -1,7 +1,7 @@
 # PORTFOLIO
 A portfolio project that also integrates a blog made using django. You can use this to showcase your projects.
 <br>
-<h5>Functionalities:</h5>
+<h3>Functionalities:</h3>
 <pre>
 -> A home page where the authors various projects are displayed as cards along with pictures.
 -> We can navigate to any of those projects and view in detail.
